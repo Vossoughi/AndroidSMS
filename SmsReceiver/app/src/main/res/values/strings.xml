@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmsReceiver</string>
+    <string name="top_textview">From</string>
+    <string name="bottom_textview">Message</string>
+</resources>

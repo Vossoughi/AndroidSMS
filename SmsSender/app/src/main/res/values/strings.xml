@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmsSender</string>
+    <string name="number_field_hint">Enter phone number</string>
+    <string name="top_textview">Recipient</string>
+    <string name="bottom_textview">Message</string>
+    <string name="button_text">Send SMS</string>
+</resources>
